@@ -1,0 +1,21 @@
+@import 'partials/background/background_color.css';
+@import 'partials/background/background_color_gradient.css';
+@import 'partials/background/background_image.css';
+
+@import 'partials/boxModel/border.css';
+@import 'partials/boxModel/height.css';
+@import 'partials/boxModel/margin.css';
+@import 'partials/boxModel/padding.css';
+@import 'partials/boxModel/width.css';
+
+@import 'partials/display/display_block.css';
+@import 'partials/display/display_inline.css';
+@import 'partials/display/display_flex.css';
+@import 'partials/display/display_grid.css';
+
+@import 'partials/text/font_family.css';
+@import 'partials/text/font_size.css';
+@import 'partials/text/font_weight.css';
+@import 'partials/text/font_color.css';
+@import 'partials/text/font_style.css';
+@import 'partials/text/font_align.css';
